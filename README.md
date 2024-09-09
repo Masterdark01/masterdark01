@@ -13,3 +13,6 @@
 </div><br/>
 
 Software Enginner Student 
+
+## My Email
+nickolassanches01@gmail.com
