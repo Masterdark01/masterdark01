@@ -1,6 +1,6 @@
 ## Hi, My Name Is Nick 🙋‍♂️
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/nickiebobert)
 
 ![Masterdark GitHub stats](https://github-readme-stats.vercel.app/api?username=masterdark&show_icons=true&theme=onedark)
 
